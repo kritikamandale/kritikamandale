@@ -15,6 +15,9 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Kritika_mandale/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritikamandale)
 [![X](https://img.shields.io/badge/X-7B68EE.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KritikaMandale)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kritiksmandale)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kritikamandale)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kritzz)
 [![Gmail](https://img.shields.io/badge/Gmail-F4A0C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritikamandale@gmail.com)
 
 </div>
