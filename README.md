@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kritikamandale1241)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Kritika_mandale/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritikamandale)
 [![X](https://img.shields.io/badge/X-7B68EE.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KritikaMandale)
 [![Gmail](https://img.shields.io/badge/Gmail-F4A0C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritikamandale@gmail.com)
