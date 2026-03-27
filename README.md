@@ -1,20 +1,124 @@
-# 💫 About Me:
-I’m currently working on Machine Learning & AI-based projects <br>I’m looking to collaborate on AI/ML projects, especially in NLP, Applied AI, and real-world problem-solving systems<br>I’m currently learning Data Structures & Algorithms, MERN Stack, and advanced Machine Learning concepts<br><br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Kritika%20Mandale&fontSize=52&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20NLP%20Explorer&descAlignY=58&fontColor=fff&descSize=16" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kritikamandale1241) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kritikamandale) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KritikaMandale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritikamandale@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kritikamandale&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
+✦ &nbsp; *Building intelligent systems, one dreamy line of code at a time.* &nbsp; ✦
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=18&pause=1200&color=C2629A&center=true&vCenter=true&width=520&lines=Machine+Learning+%26+AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+(MERN)+%F0%9F%8C%B8;NLP+%26+Applied+AI+Enthusiast+%E2%9C%A8;Always+learning%2C+always+creating+%F0%9F%8C%BF)](https://git.io/typing-svg)
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kritikamandale1241)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritikamandale)
+[![X](https://img.shields.io/badge/X-7B68EE.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KritikaMandale)
+[![Gmail](https://img.shields.io/badge/Gmail-F4A0C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kritikamandale@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kritikamandale&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌸 A Little About Me
+
+```python
+class KritikaMandale:
+    pronouns     = "she/her"
+    role         = ["AI/ML Engineer", "Full Stack Developer", "NLP Enthusiast"]
+    building     = "ML & AI projects with real-world impact 🤖"
+    collaborates = "NLP · Applied AI · Creative tech projects 🌱"
+    learning     = ["DSA", "MERN Stack", "Advanced ML"]
+    fun_fact     = "I turn caffeine into intelligent code ☕ → 🧠"
+    vibe         = "dreamy, creative & endlessly curious ✨"
+```
+
+---
+
+## 🌷 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kritikamandale&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikamandale&layout=compact&langs_count=8&theme=rose_pine&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikamandale&theme=rose_pine&hide_border=true"/>
+</div>
+
+---
+
+## 🌼 Tech I Love
+
+### 🤖 AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=8B3A62)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F4C0D4?style=flat-square&logo=TensorFlow&logoColor=8B3A62)
+![Keras](https://img.shields.io/badge/Keras-F9D0E0?style=flat-square&logo=Keras&logoColor=8B3A62)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F4D0E8?style=flat-square&logo=scikit-learn&logoColor=8B3A62)
+![OpenCV](https://img.shields.io/badge/OpenCV-E8D0F4?style=flat-square&logo=opencv&logoColor=5A3080)
+![NumPy](https://img.shields.io/badge/NumPy-D0E8F4?style=flat-square&logo=numpy&logoColor=2A5A80)
+![Pandas](https://img.shields.io/badge/Pandas-D0F4E8?style=flat-square&logo=pandas&logoColor=1A6050)
+![SciPy](https://img.shields.io/badge/SciPy-D8E8FF?style=flat-square&logo=scipy&logoColor=2A3A80)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F0E8D8?style=flat-square&logo=Matplotlib&logoColor=604020)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-D0E8FF?style=flat-square&logo=react&logoColor=1A5080)
+![Next.js](https://img.shields.io/badge/Next.js-E8E0F4?style=flat-square&logo=next.js&logoColor=3A2060)
+![Node.js](https://img.shields.io/badge/Node.js-D8F4E0?style=flat-square&logo=node.js&logoColor=1A6030)
+![MongoDB](https://img.shields.io/badge/MongoDB-D8F4D8?style=flat-square&logo=mongodb&logoColor=1A6020)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-D0F0F8?style=flat-square&logo=tailwind-css&logoColor=1A5868)
+![Socket.io](https://img.shields.io/badge/Socket.io-E8D8F4?style=flat-square&logo=socket.io&logoColor=3A1A60)
+![Streamlit](https://img.shields.io/badge/Streamlit-FFD8D8?style=flat-square&logo=streamlit&logoColor=801010)
+![Vite](https://img.shields.io/badge/Vite-E8D8FF?style=flat-square&logo=vite&logoColor=4020A0)
+
+### 💬 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF4D0?style=flat-square&logo=javascript&logoColor=806010)
+![C++](https://img.shields.io/badge/C++-D8E8FF?style=flat-square&logo=c%2B%2B&logoColor=1A3080)
+![C](https://img.shields.io/badge/C-D8E8FF?style=flat-square&logo=c&logoColor=1A3080)
+![HTML5](https://img.shields.io/badge/HTML5-FFE0D0?style=flat-square&logo=html5&logoColor=802010)
+![LaTeX](https://img.shields.io/badge/LaTeX-D8F4F0?style=flat-square&logo=latex&logoColor=0A5048)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-FFE8D0?style=flat-square&logo=amazon-aws&logoColor=804010)
+![GCP](https://img.shields.io/badge/GCP-D8E8FF?style=flat-square&logo=google-cloud&logoColor=1A3880)
+![Azure](https://img.shields.io/badge/Azure-D0DCFF?style=flat-square&logo=microsoftazure&logoColor=1A2880)
+![Docker](https://img.shields.io/badge/Docker-D0ECFF?style=flat-square&logo=docker&logoColor=0A4870)
+![Figma](https://img.shields.io/badge/Figma-FFD8E8?style=flat-square&logo=figma&logoColor=801840)
+![Power BI](https://img.shields.io/badge/PowerBI-FFF4D0?style=flat-square&logo=powerbi&logoColor=806010)
+![Git](https://img.shields.io/badge/Git-FFE0D8?style=flat-square&logo=git&logoColor=802010)
+![Postman](https://img.shields.io/badge/Postman-FFE8D8?style=flat-square&logo=postman&logoColor=804020)
+![Notion](https://img.shields.io/badge/Notion-F0EEF8?style=flat-square&logo=notion&logoColor=2A2050)
+
+---
+
+## 🌿 Currently Growing
+
+| 🌱 Area | 📖 What I'm Learning |
+|--------|----------------------|
+| 🧩 DSA | Data Structures & Algorithms — sharpening problem-solving |
+| 🌐 MERN | Full-stack web development with MongoDB, Express, React, Node |
+| 🧠 ML | Advanced model architectures & deep learning techniques |
+| 💬 NLP | Making machines understand and generate human language |
+
+---
+
+## 🌸 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritikamandale&bg_color=fff0f7&color=c2629a&line=d4a0c4&point=8a3a6e&area=true&area_color=f4d0e8&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+
+🌸 &nbsp; 🌷 &nbsp; 🌼 &nbsp; 🌸 &nbsp; 🌷 &nbsp; 🌼 &nbsp; 🌸
+
+*crafted with love & lavender* &nbsp;·&nbsp; Kritika Mandale
+
+[![](https://visitcount.itsvg.in/api?id=kritikamandale&icon=5&color=8)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+
+</div>
