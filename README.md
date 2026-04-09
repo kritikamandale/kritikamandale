@@ -32,7 +32,7 @@ class KritikaMandale:
     building     = "ML & AI projects with real-world impact 🤖"
     collaborates = "NLP · Applied AI · Creative tech projects 🌱"
     learning     = ["DSA", "MERN Stack", "Advanced ML"]
-    fun_fact     = "I turn caffeine into intelligent code ☕ → 🧠"
+    fun_fact     = "Low-key overachiever with builder mindset💸"
     vibe         = "dreamy, creative & endlessly curious ✨"
 ```
 
