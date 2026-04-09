@@ -28,7 +28,6 @@
 
 ```python
 class KritikaMandale:
-    pronouns     = "she/her"
     role         = ["AI/ML Engineer", "Full Stack Developer", "NLP Enthusiast"]
     building     = "ML & AI projects with real-world impact 🤖"
     collaborates = "NLP · Applied AI · Creative tech projects 🌱"
