@@ -34,6 +34,7 @@ class KritikaMandale:
     learning     = ["DSA", "MERN Stack", "Advanced ML"]
     fun_fact     = "Its critical because its Kritika💸"
     vibe         = "Creative & endlessly curious ✨"
+    "buy me coffee anytime?
 ```
 
 ---
