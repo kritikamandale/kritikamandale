@@ -64,7 +64,7 @@ class KritikaMandale:
 ![SciPy](https://img.shields.io/badge/SciPy-D8E8FF?style=flat-square&logo=scipy&logoColor=2A3A80)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F0E8D8?style=flat-square&logo=Matplotlib&logoColor=604020)
 
-### 🌐 Web Development
+###  Web Development
 ![React](https://img.shields.io/badge/React-D0E8FF?style=flat-square&logo=react&logoColor=1A5080)
 ![Next.js](https://img.shields.io/badge/Next.js-E8E0F4?style=flat-square&logo=next.js&logoColor=3A2060)
 ![Node.js](https://img.shields.io/badge/Node.js-D8F4E0?style=flat-square&logo=node.js&logoColor=1A6030)
@@ -74,14 +74,14 @@ class KritikaMandale:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FFD8D8?style=flat-square&logo=streamlit&logoColor=801010)
 ![Vite](https://img.shields.io/badge/Vite-E8D8FF?style=flat-square&logo=vite&logoColor=4020A0)
 
-### 💬 Languages
+###  Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFF4D0?style=flat-square&logo=javascript&logoColor=806010)
 ![C++](https://img.shields.io/badge/C++-D8E8FF?style=flat-square&logo=c%2B%2B&logoColor=1A3080)
 ![C](https://img.shields.io/badge/C-D8E8FF?style=flat-square&logo=c&logoColor=1A3080)
 ![HTML5](https://img.shields.io/badge/HTML5-FFE0D0?style=flat-square&logo=html5&logoColor=802010)
 ![LaTeX](https://img.shields.io/badge/LaTeX-D8F4F0?style=flat-square&logo=latex&logoColor=0A5048)
 
-### ☁️ Cloud & Tools
+### Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-FFE8D0?style=flat-square&logo=amazon-aws&logoColor=804010)
 ![GCP](https://img.shields.io/badge/GCP-D8E8FF?style=flat-square&logo=google-cloud&logoColor=1A3880)
 ![Azure](https://img.shields.io/badge/Azure-D0DCFF?style=flat-square&logo=microsoftazure&logoColor=1A2880)
