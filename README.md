@@ -29,17 +29,17 @@
 ```python
 class KritikaMandale:
     role         = ["AI/ML Engineer", "Full Stack Developer", "NLP Enthusiast"]
-    building     = "ML & AI projects with real-world impact 🤖"
-    collaborates = "NLP · Applied AI · Creative tech projects 🌱"
+    building     = "ML & AI projects with real-world impact "
+    collaborates = "NLP · Applied AI · Creative tech projects "
     learning     = ["DSA", "MERN Stack", "Advanced ML"]
-    fun_fact     = "Its critical because its Kritika💸"
-    vibe         = "Creative & endlessly curious ✨"
+    fun_fact     = "Its critical because its Kritika"
+    vibe         = "Creative & endlessly curious "
     "buy me coffee anytime"
 ```
 
 ---
 
-## 🌷 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -53,7 +53,7 @@ class KritikaMandale:
 
 ## 🌼 Tech I Love
 
-### 🤖 AI / Machine Learning
+###  AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=8B3A62)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-F4C0D4?style=flat-square&logo=TensorFlow&logoColor=8B3A62)
 ![Keras](https://img.shields.io/badge/Keras-F9D0E0?style=flat-square&logo=Keras&logoColor=8B3A62)
@@ -94,14 +94,14 @@ class KritikaMandale:
 
 ---
 
-## 🌿 Currently Growing
+##  Currently Growing
 
-| 🌱 Area | 📖 What I'm Learning |
+| Area |  What I'm Learning |
 |--------|----------------------|
-| 🧩 DSA | Data Structures & Algorithms — sharpening problem-solving |
-| 🌐 MERN | Full-stack web development with MongoDB, Express, React, Node |
-| 🧠 ML | Advanced model architectures & deep learning techniques |
-| 💬 NLP | Making machines understand and generate human language |
+|  DSA | Data Structures & Algorithms — sharpening problem-solving |
+|  MERN | Full-stack web development with MongoDB, Express, React, Node |
+|  ML | Advanced model architectures & deep learning techniques |
+|  NLP | Making machines understand and generate human language |
 
 ---
 
