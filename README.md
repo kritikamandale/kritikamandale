@@ -27,6 +27,7 @@
 ## 🌸 A Little About Me
 
 ```python
+hello...
 class KritikaMandale:
     role         = ["AI/ML Engineer", "Full Stack Developer", "NLP Enthusiast"]
     building     = "ML & AI projects with real-world impact "
