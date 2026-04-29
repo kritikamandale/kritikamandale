@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-
 ✦ &nbsp; *Building intelligent systems, one dreamy line of code at a time.* &nbsp; ✦
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=18&pause=1200&color=C2629A&center=true&vCenter=true&width=520&lines=Machine+Learning+%26+AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+(MERN)+%F0%9F%8C%B8;NLP+%26+Applied+AI+Enthusiast+%E2%9C%A8;Always+learning%2C+always+creating+%F0%9F%8C%BF)](https://git.io/typing-svg)
