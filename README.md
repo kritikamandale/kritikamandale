@@ -23,7 +23,7 @@
 
 ---
 
-## 🌸 A Little About Meee
+## 🌸 A Little About Meee..
 
 ```python
 hello...
