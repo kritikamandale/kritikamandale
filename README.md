@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Kritika%20Mandale&fontSize=52&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20NLP%20Explorer&descAlignY=58&fontColor=fff&descSize=16" />
-
 </div>
 
 <div align="center">
@@ -23,7 +22,7 @@
 
 ---
 
-## 🌸 A Little About Meee...
+## 🌸 A Little About Meee..
 
 ```python
 hello...
