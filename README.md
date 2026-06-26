@@ -27,13 +27,13 @@ NO — INSERT COIN TO CONTINUE BUILDING
 ```txt
 > whoami
 Kritika Mandale — Creative Web Developer & AI Agent Explorer
-Based in Nashik/Pune, India | 4th-year CSBS Engineering
+Based in Nagpur, India | final-year CSBS Engineering Student
 
 > skills.list()
 - Building full-stack products (Next.js + Supabase) that don't break in front of judges
 - Wrangling AI agents until they behave (mostly)
 - Hackathon speedrunner — IIT Delhi, IIM Indore, NASA Space Apps 🏆
-- Running HackronyX, because chaos needs a coordinator
+- Runned HackronyX, because chaos needs a coordinator
 
 > current_quest
 Shipping quote and its analysis for Sundaram Pitch Fest @ IIT Kharagpur E-Cell
