@@ -24,7 +24,7 @@ Based in Nashik/Pune, India | 4th-year CSBS Engineering
 - Running HackronyX, because chaos needs a coordinator
 
 > current_quest
-Shipping PlastiCreteAI for Sundaram Pitch Fest @ IIT Kharagpur E-Cell
+Shipping quote and its analysis for Sundaram Pitch Fest @ IIT Kharagpur E-Cell
 ```
 
 ---
@@ -61,18 +61,18 @@ Shipping PlastiCreteAI for Sundaram Pitch Fest @ IIT Kharagpur E-Cell
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1a2e&title_color=FF7A00&icon_color=FF7A00&text_color=eaeaea" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gruvbox&hide_border=true&background=1a1a2e&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kritikamandale&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1a2e&title_color=FF7A00&icon_color=FF7A00&text_color=eaeaea" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikamandale&theme=gruvbox&hide_border=true&background=1a1a2e&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=FF7A00&line=FF7A00&point=eaeaea&area=true&area_color=FF7A00" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kritikamandale&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=FF7A00&line=FF7A00&point=eaeaea&area=true&area_color=FF7A00" width="97%"/>
 
 <br/>
 
 > 🕹️ Daily commit grind — click to load latest save file
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1a2e&title_color=FF7A00" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikamandale&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1a2e&title_color=FF7A00" width="48%"/>
 
 </div>
 
@@ -121,10 +121,8 @@ Shipping PlastiCreteAI for Sundaram Pitch Fest @ IIT Kharagpur E-Cell
 <div align="center">
 
 <a href="https://kritikamandale.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kritikamandale"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/KritikaMandale"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 </div>
 
