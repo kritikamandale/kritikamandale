@@ -8,6 +8,18 @@
 
 </div>
 
+<div align="center">
+
+```txt
+> GAME OVER? 
+NO — INSERT COIN TO CONTINUE BUILDING
+```
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180"/>
+
+</div>
+
+
 ---
 
 ## 📜 ABOUT.exe
@@ -123,16 +135,5 @@ Shipping quote and its analysis for Sundaram Pitch Fest @ IIT Kharagpur E-Cell
 <a href="https://kritikamandale.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kritikamandale"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/KritikaMandale"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
-</div>
-
-<div align="center">
-
-```txt
-> GAME OVER? 
-NO — INSERT COIN TO CONTINUE BUILDING
-```
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180"/>
 
 </div>
