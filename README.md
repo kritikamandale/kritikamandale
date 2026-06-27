@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/SWVRgL1aWZ0Sp14Kuh/giphy.gif" width="260" alt="anime pixel avatar"/>
 
-### 🎮 P1: KRITIKA — LEVEL 4 (Final Year) — HP: ☕☕☕
+### KRITIKA — LEVEL 4 (Final Year) — ☕☕☕
 
 </div>
 
