@@ -11,7 +11,7 @@
 <div align="center">
 
 ```txt
-> GAME OVER? 
+> GAME OVER???
 NO — INSERT COIN TO CONTINUE BUILDING
 ```
 
@@ -49,7 +49,7 @@ Shipping quote and its analysis for Sundaram Pitch Fest @ IIT Kharagpur E-Cell
 <br/>
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,html,css&theme=dark"/>
 
-**🛡️ Backend & Data Armor**
+**🛡️ Backend & Data **
 <br/>
 <img src="https://skillicons.dev/icons?i=python,fastapi,supabase,nodejs,postgres&theme=dark"/>
 
