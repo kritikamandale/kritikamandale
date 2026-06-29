@@ -120,10 +120,6 @@ Shipping quote and its analysis for Sundaram Pitch Fest @ IIT Kharagpur E-Cell
 > Result: both APIs rate limited at once
 > Status: 🟥 me, manually typing responses like a caveman
 
-[AGENT_LOG #069]
-> Task: be a helpful voice agent
-> Result: put a customer on hold... forever
-> Status: 🟧 still on hold. send help.
 ```
 
 ---
