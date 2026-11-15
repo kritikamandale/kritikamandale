@@ -1,72 +1,85 @@
-<h1 align="center">Hi, I'm Kritika Mandale 👋</h1>
+# Kritika Mandale 👩‍💻
 
-<p align="center">
-  <b>Full Stack & AI Developer</b> · Final-year B.Tech CSBS · AI/ML Intern at Matverse Vision
-</p>
+**Full Stack & AI Developer.** Final-year CSBS student, AI/ML intern, and a person who cannot see a hackathon without registering.
 
-<p align="center">
-  <a href="https://kritikamandale.dev"><img src="https://img.shields.io/badge/Portfolio-kritikamandale.dev-black?style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/can_did_kritika"><img src="https://img.shields.io/badge/Instagram-@can__did__kritika-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kritikamandale"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+> `git commit -m "this is the last feature, I swear"`
+> *(narrator: it was not)*
+
+[![Portfolio](https://img.shields.io/badge/portfolio-kritikamandale.dev-black?style=flat-square)](https://kritikamandale.dev)
+[![Instagram](https://img.shields.io/badge/instagram-@can__did__kritika-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/can_did_kritika)
 
 ---
 
-### 🌱 About me
+## 🧠 Current status
 
-I build full-stack products and applied AI systems, with a focus on solving real problems in agriculture, hiring, and everyday tools. Currently studying Computer Science & Business Systems at SVPCET, Nagpur (class of 2027).
-
-- 🔭 Interning on satellite-based irrigation prediction models at **Matverse Vision**
-- 🌾 B.Tech thesis: **FasalMitra**, an AI-powered agricultural advisory and irrigation decision support system
-- 🏆 Co-coordinator of **HackronyX**, a national-level hackathon with 250+ participants
-- 🎯 Open to full-stack and AI/ML roles
+- 🔭 Predicting irrigation from satellite data at **Matverse Vision**
+- 📚 Writing a thesis on **FasalMitra** while several other projects quietly judge me
+- 🏆 Co-running **HackronyX**, so I now organise the chaos I used to just participate in
+- 😴 Sleep: still in backlog
 
 ---
 
-### 🛠️ Tech stack
+## 📦 README.md of me
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+### Installation
+
+```bash
+git clone https://github.com/kritikamandale/kritika.git
+cd kritika
+coffee --extra-strong        # optional, but the build is faster
+```
+
+Requires: a problem worth solving. Optional: a deadline (it improves performance).
+
+### Usage
+
+```python
+from kritika import Developer
+
+dev = Developer(role="Full Stack & AI")
+dev.build(idea)              # starts instantly
+dev.finish(idea)             # see Known Issues
+dev.ship(idea)               # works, once I stop adding "just one more feature"
+```
+
+**Best used for:** full-stack apps, applied ML, anything agriculture + AI, hackathon chaos, and making demos look better than they have any right to.
+
+### Known issues
+
+- 🐛 **Restless build syndrome:** starts a new project before the old one is done. Workaround: give me a deadline.
+- 🐛 **README procrastination:** documentation is written last, at midnight.
+- 🐛 **Scope creep:** "quick 2-hour project" has a 100% chance of becoming a 2-day project.
+- 🐛 **Commit messages:** a mix of "fix", "fix again", and "why".
+- 🐛 **Sleep module:** frequently crashes, no patch available.
+
+### Contributing
+
+Pull requests are welcome. Please:
+
+1. Open an issue first (or just message me, same thing)
+2. Bring a real problem, not a solution looking for one
+3. Be ready for me to say "wait, what if we also..." and open a new repo
+
+### Tech stack (dependencies)
+
+`Python` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `PyTorch` · `Hugging Face` · `MongoDB` · `PostgreSQL` · `Docker` · `Git`
+*(and Stack Overflow, officially a peer dependency)*
+
+### License
+
+MIT. Use me freely, credit the chai.
 
 ---
 
-### 🚀 Featured projects
+## 🎯 What I'm looking for
 
-| Project | What it does |
-|---|---|
-| 🌾 **FasalMitra** | AI-powered agricultural advisory and irrigation decision support system |
-| 🧠 **HireLens** | Explainable GraphRAG hiring copilot using hybrid vector + skill knowledge graph retrieval |
-| 🧴 **SkinAI** | ML-based skin analysis with training pipelines and a clean UI |
-| ♻️ **PlasticreteAI** | AI-driven major project on plastic-based construction material |
-| 🎪 **EventNest** | Smart event hosting and management platform for the Indian market |
+Full-stack or AI/ML roles where I can build things that ship. I get restless when a project sits still, which is great for your sprint velocity and terrible for my sleep.
 
-*(Add repo links to each name once you're happy with the list.)*
+## 📬 Say hi
+
+Portfolio: [kritikamandale.dev](https://kritikamandale.dev)
+The best way to reach me is a problem that needs solving. I will immediately open a new repo.
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kritikamandale&show_icons=true&hide_border=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikamandale&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
-<p align="center">
-  <i>Building things that are useful, one commit at a time. ✨</i>
-</p>
+*Currently thinking about a new project instead of finishing the old ones. Send help. Or stars. ⭐*
