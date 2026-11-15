@@ -1,135 +1,72 @@
-<div align="center">
+<h1 align="center">Hi, I'm Kritika Mandale 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=600&height=60&lines=LOADING+KRITIKA.EXE...;PRESS+START+TO+CONTINUE;CREATIVE+DEV+%2B+AI+AGENT+EXPLORER" alt="Typing SVG" />
+<p align="center">
+  <b>Full Stack & AI Developer</b> · Final-year B.Tech CSBS · AI/ML Intern at Matverse Vision
+</p>
 
-<img src="https://media.giphy.com/media/SWVRgL1aWZ0Sp14Kuh/giphy.gif" width="260" alt="anime pixel avatar"/>
-
-### KRITIKA — LEVEL 4 (Final Year) — ☕☕..
-
-</div>
-
-<div align="center">
-
-```txt
-> GAME OVER???
-NO — INSERT COIN TO CONTINUE BUILDING
-```
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180"/>
-
-</div>
-
+<p align="center">
+  <a href="https://kritikamandale.dev"><img src="https://img.shields.io/badge/Portfolio-kritikamandale.dev-black?style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/can_did_kritika"><img src="https://img.shields.io/badge/Instagram-@can__did__kritika-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kritikamandale"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📜 ABOUT.exe
+### 🌱 About me
 
-```txt
-> whoami
-Kritika Mandale — Creative Web Developer & AI Agent Explorer
-Based in Nagpur, India | final-year CSBS Engineering Student
+I build full-stack products and applied AI systems, with a focus on solving real problems in agriculture, hiring, and everyday tools. Currently studying Computer Science & Business Systems at SVPCET, Nagpur (class of 2027).
 
-> skills.list()
-- Building full-stack products (Next.js + Supabase) that don't break in front of judges
-- Wrangling AI agents until they behave (mostly)
-- Hackathon speedrunner — IIT Delhi, IIM Indore, NASA Space Apps 🏆
-- Runned HackronyX, because chaos needs a coordinator
-
-> current_quest
-Shipping quote and its analysis for Sundaram Pitch Fest @ IIT Kharagpur E-Cell
-```
+- 🔭 Interning on satellite-based irrigation prediction models at **Matverse Vision**
+- 🌾 B.Tech thesis: **FasalMitra**, an AI-powered agricultural advisory and irrigation decision support system
+- 🏆 Co-coordinator of **HackronyX**, a national-level hackathon with 250+ participants
+- 🎯 Open to full-stack and AI/ML roles
 
 ---
 
-## 🕹️ TECH STACK — INVENTORY SCREEN
+### 🛠️ Tech stack
 
-<div align="center">
-
-**⚔️ Frontend Weapons**
-<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,html,css&theme=dark"/>
-
-**🛡️ Backend & Data **
-<br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi,supabase,nodejs,postgres&theme=dark"/>
-
-**🧙 AI / ML Spellbook**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-<img src="https://img.shields.io/badge/XGBoost-FF7A00?style=for-the-badge&logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-2D2D2D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-
-**🗺️ Tools & Side Quests**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,canva,vscode&theme=dark"/>
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 📊 STATS — XP TRACKER
+### 🚀 Featured projects
 
-<div align="center">
+| Project | What it does |
+|---|---|
+| 🌾 **FasalMitra** | AI-powered agricultural advisory and irrigation decision support system |
+| 🧠 **HireLens** | Explainable GraphRAG hiring copilot using hybrid vector + skill knowledge graph retrieval |
+| 🧴 **SkinAI** | ML-based skin analysis with training pipelines and a clean UI |
+| ♻️ **PlasticreteAI** | AI-driven major project on plastic-based construction material |
+| 🎪 **EventNest** | Smart event hosting and management platform for the Indian market |
 
-<img src="https://github-readme-stats.vercel.app/api?username=kritikamandale&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1a2e&title_color=FF7A00&icon_color=FF7A00&text_color=eaeaea" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikamandale&theme=gruvbox&hide_border=true&background=1a1a2e&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kritikamandale&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=FF7A00&line=FF7A00&point=eaeaea&area=true&area_color=FF7A00" width="97%"/>
-
-<br/>
-
-> 🕹️ Daily commit grind — click to load latest save file
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikamandale&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1a2e&title_color=FF7A00" width="48%"/>
-
-</div>
+*(Add repo links to each name once you're happy with the list.)*
 
 ---
 
-## 🐛 BUG REPORTS — AI AGENT CONFESSIONS (funny section)
+### 📊 GitHub stats
 
-<div align="center">
-
-> *Random transmissions from agents I've built, fine-tuned, or yelled at*
-
-</div>
-
-```txt
-[AGENT_LOG #001]
-> Task: classify skin types
-> Result: confidently invented a 4th category that doesn't exist
-> Status: 🟥 GASLIT BY MY OWN MODEL
-
-[AGENT_LOG #014]
-> Task: call user politely in Hinglish
-> Result: agent panicked, switched to full Shakespearean English mid-sentence
-> Status: 🟧 "Verily, your order shippeth tomorrow"
-
-[AGENT_LOG #027]
-> Task: predict concrete strength with plastic waste composite
-> Result: predicted negative strength
-> Me: concrete cannot have -40 MPa, agent.
-> Agent: "are you sure about that"
-
-[AGENT_LOG #042]
-> Task: failover from Claude API to Gemini on rate limit
-> Result: both APIs rate limited at once
-> Status: 🟥 me, manually typing responses like a caveman
-
-```
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kritikamandale&show_icons=true&hide_border=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikamandale&layout=compact&hide_border=true&theme=default" />
+</p>
 
 ---
 
-## 🔗 MULTIPLAYER — CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://kritikamandale.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/kritikamandale"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/KritikaMandale"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
-</div>
+<p align="center">
+  <i>Building things that are useful, one commit at a time. ✨</i>
+</p>
