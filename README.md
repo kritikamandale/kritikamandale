@@ -10,16 +10,15 @@
 
 ---
 
-## 🧠 Current status
+## 🧠 Previously, in my life
 
-- 🔭 Predicting irrigation from satellite data at **Matverse Vision**
-- 📚 Writing a thesis on **FasalMitra** while several other projects quietly judge me
-- 🏆 Co-running **HackronyX**, so I now organise the chaos I used to just participate in
-- 😴 Sleep: still in backlog
+- Predicted irrigation from satellite data at **Matverse Vision** (AI/ML intern)
+- Co-coordinated **HackronyX** (250+ participants). I organised the chaos I used to just participate in, and survived
+- Sleep: was in backlog the whole time
 
 ---
 
-## 📦 README.md of me
+## README.md of me
 
 ### Installation
 
@@ -63,11 +62,11 @@ Pull requests are welcome. Please:
 ### Tech stack (dependencies)
 
 `Python` · `TypeScript` · `React` · `Next.js` · `FastAPI` · `PyTorch` · `Hugging Face` · `MongoDB` · `PostgreSQL` · `Docker` · `Git`
-*(and Stack Overflow, officially a peer dependency)*
+*(and Stack Overflow, twitter (X) officially a peer dependency)*
 
 ### License
 
-MIT. Use me freely, credit the chai.
+MIT. Use me freely, credit the coffee.
 
 ---
 
